@@ -10,13 +10,13 @@ Frontend Developer from Vilnius 🔥
 
   ####  Shoping website for car styling accessories & components (in production)
   (2024)
-  Created on Next JS 14(app),typescript ,mysql<br/>
-  Build with Jiras issues and on [Bitbucket](https://bitbucket.org/autostyle-web/autostyle/src/main/)<br/><br/>[![Bitbucket](https://skillicons.dev/icons?i=bitbucket)](https://bitbucket.org/autostyle-web/autostyle/src/main/)
+  Build on Next JS 14(app),typescript ,mysql<br/>
+  Build with Jira issues and on [Bitbucket](https://bitbucket.org/autostyle-web/autostyle/src/main/)<br/><br/>[![Bitbucket](https://skillicons.dev/icons?i=bitbucket)](https://bitbucket.org/autostyle-web/autostyle/src/main/)
 
 - ### [🎉 Autoplate](https://autoplate.tech)
   (2023)
   #### Website about technology (active)
-  Created with wordpress<br/>
+  Build on wordpress<br/>
   No repository
 
 <br>
