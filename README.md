@@ -7,16 +7,15 @@ Frontend Developer from Vilnius 🔥
 ## [🧊 My Projects](https://github.com/siberiacancode)
 
 - ### [🔑 Autostyle](https://autostyle.vercel.app)
-
-  ####  Shoping website for car styling accessories & components (in production)
-  (2024)
+  (2024-02 --- in progress)
+  ####  Shoping website for car styling accessories & components (in production)  
   Build on Next JS 14(app),typescript ,mysql<br/>
   Build with Jira issues and on [Bitbucket](https://bitbucket.org/autostyle-web/autostyle/src/main/)<br/><br/>[![Bitbucket](https://skillicons.dev/icons?i=bitbucket)](https://bitbucket.org/autostyle-web/autostyle/src/main/)
 
 - ### [🎉 Autoplate](https://autoplate.tech)
-  (2023)
+  (2023-03 --- 2023-07)
   #### Website about technology (active)
-  Build on wordpress<br/>
+  Build on wordpress with scss and javascript<br/>
   No repository
 
 <br>
