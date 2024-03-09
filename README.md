@@ -9,7 +9,7 @@ Frontend Developer from Vilnius 🔥
 - ### [🔑 Autostyle](https://autostyle.vercel.app)
   (2024-02 --- in progress)
   ####  Shoping website for car styling accessories & components (in production)  
-  Build on Next JS 14(app),typescript ,mysql<br/>
+  Build on Next JS 14(app), typescript, mysql<br/>
   Build with Jira issues and on [Github](https://github.com/SAudrius/Autostyle)<br/><br/>
   [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/SAudrius/Autostyle)
   [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/file/9GlBcLPj9A8AakFhqMmg51/Autostyle)
