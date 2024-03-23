@@ -4,7 +4,7 @@ Frontend Developer from Vilnius 🔥
 
 <br>
 
-## [🧊 My Projects](https://github.com/siberiacancode)
+## [🧊 My Projects](https://github.com/Saudrius)
 
 - ### [🔑 Autostyle](https://autostyle.vercel.app)
   (2024-02 --- in progress)
