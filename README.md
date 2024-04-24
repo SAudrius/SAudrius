@@ -14,12 +14,6 @@ Frontend Developer from Vilnius 🔥
   [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/SAudrius/Autostyle)
   [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/file/9GlBcLPj9A8AakFhqMmg51/Autostyle)
 
-- ### [🎉 Autoplate](https://autoplate.tech)
-  (2023-03 --- 2023-07)
-  #### Website about technology (active)
-  Build on wordpress with scss and javascript<br/>
-  No repository
-
 <br>
 
 <h2 align="left" id="my-stack">🔥 Tech stack</h2>
