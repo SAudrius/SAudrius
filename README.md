@@ -170,8 +170,9 @@ Frontend Developer from Vilnius 🔥
 
 ## ☄️ Contact
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/audrius-sabalys)
-
+<a href="https://www.linkedin.com/in/audrius-sabalys/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="64" height="64" />
+</a>
 
 
 <br>
